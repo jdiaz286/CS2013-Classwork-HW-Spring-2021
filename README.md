@@ -7,7 +7,13 @@ This is just for me, it's all my work I created during my CS 2013 class at CSULA
 
 [Go to hw03 section](#hw03-folder-includes)
 
+[Go to hw04 section](#hw04-folder-includes)
 
+[Go to hw05 section](#hw05-folder-includes)
+
+[Go to hw06 section](#hw06-folder-includes)
+
+[Go to back to main section](#cs2013-classwork-hw-spring-2021)
 ## hw01 folder includes:
 Class name  | Task
 -------------    | -------------
@@ -20,6 +26,7 @@ PPMImages     |  This is a folder that holds 8 different ppm images to test the 
 ![HW 01_ Binary I_O-3](https://user-images.githubusercontent.com/55372515/151686325-38817326-9675-42d5-b4b0-10544679f572.jpg)
 ![HW 01_ Binary I_O-4](https://user-images.githubusercontent.com/55372515/151686329-28dc0672-4cdf-4164-90e9-068c1d6b57e3.jpg)
 
+[Go to back to main section](#cs2013-classwork-hw-spring-2021)
 ## hw02 folder includes:
 Class name  | Task
 -------------    | -------------
@@ -32,10 +39,11 @@ Student.java     |  This is a class that is meant to represent a student to test
 ![HW 02_ Java Generics-2](https://user-images.githubusercontent.com/55372515/151686821-ecd4461f-e670-485f-8fe8-8db71656225e.jpg)
 ![HW 02_ Java Generics-3](https://user-images.githubusercontent.com/55372515/151686824-d00682d2-08ba-4e74-8830-7afede0fcc7f.jpg)
 
+[Go to back to main section](#cs2013-classwork-hw-spring-2021)
 ## hw03 folder includes:
 Class name  | Task
 -------------    | -------------
- Purpose     |  For this assignment you will be implementing a program which can read a PPMImage and alter its pixel data to manipulate how the image looks.  You will use Binary IO to process the image. 
+ Purpose     |  The purpose of this assignment is to practice using recursion and backtracking to solve a puzzle.
 FileReader.java     |  This class is meant to read a file of 'Hexagons' with different colors.
 Hexagon.java     |  This class is meant to represent a Hexagon that is to be stored in an ArrayList.
 SolutionFinder.java     |  This is a class that is meant to find a solution to the set of hexagons given.
@@ -47,5 +55,39 @@ SolutionFinderDriver.java     |  This is a class that just runs the program.
 ![HW 03_ Recursion-4](https://user-images.githubusercontent.com/55372515/151687018-36b30d0b-d987-4ea8-a47b-179a7df9af70.jpg)
 ![HW 03_ Recursion-5](https://user-images.githubusercontent.com/55372515/151687020-305af6e2-ee4d-4797-abd3-ed5af6898c30.jpg)
 ![HW 03_ Recursion-6](https://user-images.githubusercontent.com/55372515/151687021-66afa5d2-ff06-4634-93a6-8b5b6ed02272.jpg)
+
+[Go to back to main section](#cs2013-classwork-hw-spring-2021)
+## hw04 folder includes:
+Class name  | Task
+-------------    | -------------
+ Purpose     |  This week you will focus on reinforcing what you learned about arrays and Dynamic Lists by building a simple Set class.
+Main.java     |  This class is meant to test the sorted set created.
+SortedSet.java     |  This class is meant to represent a sorted set.
+SortedSetUtils.java     |  This is a class that is meant to find the union and intersection of a sorted set.
+
+![HW 04_ Lists I-1](https://user-images.githubusercontent.com/55372515/151687296-5e5d0c2f-e038-41be-b2d9-8e4bca461dd6.jpg)
+![HW 04_ Lists I-2](https://user-images.githubusercontent.com/55372515/151687297-29b2149a-3418-4a78-b8b4-549bb73982d7.jpg)
+![HW 04_ Lists I-3](https://user-images.githubusercontent.com/55372515/151687299-7dbae13a-ae16-45a7-8bcd-cd8a877faea8.jpg)
+![HW 04_ Lists I-4](https://user-images.githubusercontent.com/55372515/151687301-f2f5635c-76b9-437d-a37e-8bbaabe6dcf4.jpg)
+![HW 04_ Lists I-5](https://user-images.githubusercontent.com/55372515/151687302-10509429-f242-4ef7-8db4-bfc45c52faa3.jpg)
+![HW 04_ Lists I-6](https://user-images.githubusercontent.com/55372515/151687303-415caaf0-6d6c-4e3b-b5ad-899d879a0200.jpg)
+
+[Go to back to main section](#cs2013-classwork-hw-spring-2021)
+## hw05 folder includes:
+Class name  | Task
+-------------    | -------------
+ Purpose     |  The purpose of this assignment is to practice your knowledge of how a linked data structure is implemented.  This is a more advanced version of a linked list, and will help to give you practice in how to deal with data structures connected through references.  This assignment is very important to help you understand the fundamentals of Linked Lists.  At the end of this assignment, you should be able to fully understand how any variation of a Linked List is implemented.
+Array2D.java     |  This class is meant to contain all the 2D linked list methods to manipulate the 2D linked list.
+Array2DNode.java     |  This class is meant to represent a node that makes up a 2D linked list.
+Main.java     |  This is a class that is meant to be a driver class.
+
+![HW 05_ Linked Lists-1](https://user-images.githubusercontent.com/55372515/151687421-05e2123f-43d3-4960-98b3-d321b8b57443.jpg)
+![HW 05_ Linked Lists-2](https://user-images.githubusercontent.com/55372515/151687422-577b4d2b-ba88-44c8-9cfa-08a4cef70434.jpg)
+![HW 05_ Linked Lists-3](https://user-images.githubusercontent.com/55372515/151687423-b9a0dc9b-2ff8-4385-adc2-18430d567178.jpg)
+![HW 05_ Linked Lists-4](https://user-images.githubusercontent.com/55372515/151687424-a2a372d2-c293-4ef0-a1c9-627abd6c6638.jpg)
+![HW 05_ Linked Lists-5](https://user-images.githubusercontent.com/55372515/151687425-0d9bc899-f1f4-40b8-a44b-a596055176c4.jpg)
+
+
+
 
 
