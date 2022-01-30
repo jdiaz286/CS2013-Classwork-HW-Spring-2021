@@ -13,6 +13,8 @@ This is just for me, it's all my work I created during my CS 2013 class at CSULA
 
 [Go to hw06 section](#hw06-folder-includes)
 
+[Go to hw07 section](#hw07-folder-includes)
+
 [Go to back to main section](#cs2013-classwork-hw-spring-2021)
 ## hw01 folder includes:
 Class name  | Task
@@ -87,7 +89,33 @@ Main.java     |  This is a class that is meant to be a driver class.
 ![HW 05_ Linked Lists-4](https://user-images.githubusercontent.com/55372515/151687424-a2a372d2-c293-4ef0-a1c9-627abd6c6638.jpg)
 ![HW 05_ Linked Lists-5](https://user-images.githubusercontent.com/55372515/151687425-0d9bc899-f1f4-40b8-a44b-a596055176c4.jpg)
 
+[Go to back to main section](#cs2013-classwork-hw-spring-2021)
+## hw06 folder includes:
+Class name  | Task
+-------------    | -------------
+ Purpose     |  This assignment help you to learn how the sorting algorithms work and to see how choosing the best algorithm is important.
+FileDataReader.java     |  This class is meant to read data from a file and save it to an ArrayList for the user to access.
+Sorting.java     |  This class is meant to hold all the sorting methods that can be used by the user to sort data.
+Main.java     |  This is a class that is meant to be a driver class.
 
+![HW 06_ Sorting Algorithms-1](https://user-images.githubusercontent.com/55372515/151687612-affd4e59-4639-4483-ae9a-00e317861be7.jpg)
+![HW 06_ Sorting Algorithms-2](https://user-images.githubusercontent.com/55372515/151687614-933fc07e-effe-4ec4-8ef4-68d5740b2d5d.jpg)
+![HW 06_ Sorting Algorithms-3](https://user-images.githubusercontent.com/55372515/151687615-abc2191b-68ac-4571-ad16-d03862af2af8.jpg)
 
+[Go to back to main section](#cs2013-classwork-hw-spring-2021)
+## hw07 folder includes:
+Class name  | Task
+-------------    | -------------
+ Purpose     |  This assignment will help you to learn how the algorithms for a Binary Search Tree work.  I know you can find implementations online, but please use my algorithms from the lecture slides and do your own work.  ^_^
+BSTNode.java     |  This class is meant to as a node to be used in the binary search tree.
+BinarySearchTree.java     |  This class is meant to represent the bst and contains all the methods neccessary to manipulate the tree.
+DuplicateItemException.java     |  This class is meant to be an exception that tells the user there is a duplicate item in the bst.
+Main.java     |  This is a class that is meant to be a driver class.
 
+![HW 07_ Binary Search Tree Implementation-1](https://user-images.githubusercontent.com/55372515/151687714-f4c73ab0-fabe-4932-a94f-b62d5ed83228.jpg)
+![HW 07_ Binary Search Tree Implementation-2](https://user-images.githubusercontent.com/55372515/151687715-07fec54a-1477-4d29-9cba-a46108dc0d7d.jpg)
+![HW 07_ Binary Search Tree Implementation-3](https://user-images.githubusercontent.com/55372515/151687716-3daf7edf-f149-460f-985a-2e025141fe7f.jpg)
+![HW 07_ Binary Search Tree Implementation-4](https://user-images.githubusercontent.com/55372515/151687718-f9ea0170-2f13-4be5-931d-ca4a7c7265cb.jpg)
+
+[Go to back to main section](#cs2013-classwork-hw-spring-2021)
 
