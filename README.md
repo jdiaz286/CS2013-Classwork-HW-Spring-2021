@@ -1,5 +1,8 @@
 # CS2013-Classwork-HW-Spring-2021
-This is just for me, it's all my work I created during my CS 2012 class at CSULA
+This is just for me, it's all my work I created during my CS 2013 class at CSULA
+
+[Go to hw01 section](#real-cool-heading)
+
 
 ## hw01 folder includes:
 Class name  | Task
@@ -7,9 +10,10 @@ Class name  | Task
  Purpose     |  For this assignment you will be implementing a program which can read a PPMImage and alter its pixel data to manipulate how the image looks.  You will use Binary IO to process the image. 
 PPMImage.java     |  This class is meant to serve as the basis for reading a PPMImage and altering its pixel data to manipulate how the image looks.
 PPMImages     |  This is a folder that holds 8 different ppm images to test the program.
-#### PPMImage.java contains:
- ----    | ---- 
-| :---         |     :---      |
- | Data Fields    | <ul><li>magicNumber: a String to store the magic number.</li> <li>width: an integer value for the width of the picture.</li> <li>height: an integer value for the height of the picture.</li> <li>maxColorValue: an integer value for the maxColorValue value.</li> <li>raster[]: This is a 1D char array.  The size of this array should be computed with width * height * 3 (the image has width * height pixels and each pixel is made up of 3 color channels Red, Green, Blue.) We use an array of char because Java does not have an unsigned byte datatype (bytes that are only positive values) and char is 2 bytes which allows us to store the pixel data with the correct (positive only) values.  If you do not use a char array, then the math to manipulate the image will not be correct.</li> </ul> |
- | Constructor     |  <ul><li>PPMImage(String imageFileName): Takes a String that is the name of a PPM image.  Loads the image data into the object.  The image must be a PPM image.  If the file is not a PPM image then your program should throw an appropriate exception.  This method will call your private readImage method.</li> </ul> |
-| I/O Methods     |  <ul><li>writeImage(String outputImageFileName): Takes a String which is the name of the file to write the image data to.  This will create a new file with the given name and write all of the image data into the file.  If you only give the file name, then image will be written to the current working directory of the project.  If the file name is not a .ppm file name, you should also throw an exception.  When writing the image header information (magic number, width, height, maxColorValue), you will need to write the data character by character (including the whitespace characters).  The method which writes a byte at a time is able to take a char value and correctly write it to the file.</li> <li>readImage(String imageFileName): This method should be a private method and should be called by the constructor to read the image data from the image file.  HINT: You will need to read the image data byte by byte.  For the image header information (magic number, width, height, maxColorValue), you will need to read these byte by byte (including the whitespace characters), but convert each byte to a char in order to store the data in your program correctly.)  Remember that multiple char values can be concatenated into a string and if necessary, a string can always be converted into an integer or other data type using the correct parsing method.</li> <li>grayscale(): This method should alter the data of each pixel using the given formula to turn the image from color to grayscale.</li> <li>sepia(): This method should alter the data of each pixel using the given formula to turn the image from color to sepia. </li> <li>negative(): This method should alter the data of each pixel using the given formula to turn the image from color to negative().</li> </ul> |
+
+![HW 01_ Binary I_O-1](https://user-images.githubusercontent.com/55372515/151686319-737cc907-32f3-4597-a924-a1a30e36b8f4.jpg)
+![HW 01_ Binary I_O-2](https://user-images.githubusercontent.com/55372515/151686323-1c467a1d-90dd-4fa9-b82f-9bb0c717cdb4.jpg)
+# Real Cool Heading
+![HW 01_ Binary I_O-3](https://user-images.githubusercontent.com/55372515/151686325-38817326-9675-42d5-b4b0-10544679f572.jpg)
+![HW 01_ Binary I_O-4](https://user-images.githubusercontent.com/55372515/151686329-28dc0672-4cdf-4164-90e9-068c1d6b57e3.jpg)
+
